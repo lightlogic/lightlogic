@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Frédéric Noyer (@lightlogic)
+- 🌱 I’m currently learning technologies around the MEAN stack

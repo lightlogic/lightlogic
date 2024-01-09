@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Frédéric Noyer (@lightlogic)
-- 🌱 I’m digital archivist at Photo Elysée - Musée cantonal pour la photographie (part of Plateforme 10)
+- 🌱 I’m digital archivist at Photo Elysée - Musée cantonal pour la photographie (part of Plateforme 10).
+- In my spare time I do IT research projects under the label lightlogic.

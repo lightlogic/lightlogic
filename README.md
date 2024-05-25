@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Frédéric Noyer
 - 📸 My job position is digital archivist at Photo Elysée - Musée cantonal pour la photographie (part of Plateforme 10).
 - 🌱 I do IT research projects in my spare time under the label lightlogic.
-- I am an activ Ham Radio Operator, my callsign is HB9HWF.
+- ⛰ Activ Ham Radio Operator (HB9HWF)
